@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-169-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-695%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
@@ -50,10 +48,6 @@ JavaScript               1 repo              █████░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/alexwhitmore/alexwhitmore/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
