@@ -1,17 +1,17 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-695%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-907%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 39 Contributions in the Year 2020
+> 🏆 41 Contributions in the Year 2020
  > 
-> 📦 394 Bytes Used in Github's Storage 
+> 📦 1.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 8 Public Repositories 
  > 
-> 🔑 0 Private Repositories  
+> 🔑 1 Public Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -39,12 +39,12 @@ Mac                      9 hrs 9 mins        ███████████�
 
 ```
 
-**I Mostly Code in CSS** 
+**I Mostly Code in JavaScript** 
 
 ```text
-CSS                      2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
+JavaScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+CSS                      2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+HTML                     2 repos             ████████░░░░░░░░░░░░░░░░░   33.33%
 
 ```
 
